@@ -5,7 +5,7 @@ public class Test1 {
             System.out.println(num[i]);
 
         }
-        int c = 9;
+        int c = 2;
         System.out.println(c);
     }
 }
